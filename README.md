@@ -9,4 +9,4 @@ password:123123
 
 ##Storage
 Username and password are stored locally.
-Change local Storage to view to users
+Change local Storage two view to users
